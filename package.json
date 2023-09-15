@@ -1,0 +1,15 @@
+{
+  "name": "popeye",
+  "version": "1.0.0",
+  "description": "powering popeye",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "carlos sigua",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.2.1"
+  }
+}
